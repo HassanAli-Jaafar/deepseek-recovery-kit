@@ -151,7 +151,7 @@ python deepseek_recovery.py conversations.json -o my_report.html
 
 ## 🤝 Why Open Source?
 
-This tool was born from a real problem — losing track of a 4-day bot project (3 C# bots, 40+ commands) after hitting DeepSeek's context limit.
+This tool was born from a real problem — losing track of a 4-day project.
 
 The data wasn't lost. It was in the JSON export. But finding anything was impossible.
 
